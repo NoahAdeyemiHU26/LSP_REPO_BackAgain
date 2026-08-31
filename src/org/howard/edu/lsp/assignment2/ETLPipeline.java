@@ -1,3 +1,6 @@
+/**
+*Noah Adeyemi (Generated via Claude AI)
+**/
 package org.howard.edu.lsp.assignment2;
 
 import java.io.BufferedReader;
