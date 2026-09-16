@@ -1,3 +1,5 @@
+//Generated via Claude AI (https://claude.ai/share/e60f6cde-fd41-4587-a34b-ccd46312b10f)
+//Noah Adeyemi
 package org.howard.edu.lsp.assignment3;
 
 import java.io.FileWriter;
