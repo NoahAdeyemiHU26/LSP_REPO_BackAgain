@@ -103,4 +103,4 @@ resulting Java source files and their comments, and to verify that the
 refactored program's output matches the Assignment #2 output exactly on
 the provided grading dataset. No other Internet resources were used.
 
-[Link to AI transcript: ADD YOUR CONVERSATION LINK HERE]
+[Link to AI transcript:(https://claude.ai/share/e60f6cde-fd41-4587-a34b-ccd46312b10f)
